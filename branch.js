@@ -32,6 +32,11 @@ seperti biasa repo asli difork, lalu di fork dari akun kita diclone ke local.
 > git branch - d newbranch. 
 > git push origin--delete newbranch. 
 
+
+RESULT POINTTER GRAPH HARUS SEJAJAR/UPDATE BERASAMAAN. 
+$ graph
+*   8d13988 (HEAD -> master, zona/master, origin/master, origin/HEAD)
+
 DONE !!
 
 
