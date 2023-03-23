@@ -30,7 +30,9 @@ seperti biasa repo asli difork, lalu di fork dari akun kita diclone ke local.
 
 > delete branch setelah diterima. 
 > git branch - d newbranch. 
-> git push origin --delete newbranch. 
+> git push origin--delete newbranch. 
+
+DONE !!
 
 
 
